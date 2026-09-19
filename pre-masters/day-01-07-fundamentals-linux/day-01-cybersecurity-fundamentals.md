@@ -83,14 +83,14 @@ My explanation: Offensive security looks to find a weakness in a given system be
 
 ### Defensive security
 
-My explanation:
+My explanation: Defensive security is the process of defending and securing systems and devices.
 
 ## TryHackMe notes
 
-- Room or section completed:
-- Main idea:
+- Room or section completed: FakeBank lab.
+- Main idea: Hacking FakeBank by exploiting the mistakenly accessible URL which leaves the option to deposit money onto any account open.
 - Something I found difficult:
-- Question to research:
+- Question to research: What is dirbuster.
 
 ## Recall questions
 
