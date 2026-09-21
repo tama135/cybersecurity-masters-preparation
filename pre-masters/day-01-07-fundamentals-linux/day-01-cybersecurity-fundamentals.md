@@ -6,7 +6,15 @@ Write the date you studied this material.
 
 ## What is cybersecurity?
 
-Write the definition in your own words.
+Cybersecurity is the practice of protecting systems, networks, applications, computers and information from unauthorized access, damage, disruption, theft or manipulation.
+
+Cybersecurity includes:
+-preventing incidents
+-responding to attacks
+-detecting suspicious activity
+-recovering from incidents
+-protecting services and data
+-managing risk
 
 ## Key terms
 
