@@ -1,0 +1,32 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+
+# Private keys and certificates
+*.key
+*.pem
+*.p12
+*.pfx
+
+# VPN configurations
+*.ovpn
+
+# Potentially sensitive packet captures
+captures/private/
+*.pcap
+*.pcapng
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
