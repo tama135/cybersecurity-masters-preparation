@@ -37,7 +37,7 @@ Areas may include:
 
 ## Repository structure
 
-- `pre-masters/` — the 20-day preparation plan and related materials
+- `pre-masters/` — the 20-day plan, four 5-day sections, section READMEs, and daily note files
 - `masters-year/` — notes, exercises, and projects from the master’s year
 - `commands/` — Linux, Nmap, Wireshark, Burp Suite, and other references
 - `lab-writeups/` — write-ups from authorized practical laboratories
@@ -55,8 +55,10 @@ Areas may include:
 
 - [ ] Days 1–5: Foundations, Linux, and networking
 - [ ] Days 6–10: Network tools, operating systems, and lab safety
-- [ ] Days 11–15: Web security, assessment, and reconnaissance
-- [ ] Days 16–20: Validation, forensics, practical review, and master’s preparation
+- [ ] Days 11–15: Web security and assessment
+- [ ] Days 16–20: Validation, forensics, and review
+
+
 
 ### Master’s year
 
