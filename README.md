@@ -1,33 +1,28 @@
 # Cybersecurity Master’s Preparation and Study Repository
 
-This repository documents my cybersecurity learning journey from my
-40-day pre-master’s preparation period through the completion of my
-cybersecurity master’s year.
+This repository documents my cybersecurity learning journey, beginning with a 20-day pre-master’s preparation plan and continuing through my cybersecurity master’s year.
 
-It contains study notes, practical exercises, scripts, authorized lab
-write-ups, coursework references, technical reports, diagrams, and
-progress records.
+The pre-master’s plan is an accelerated introduction, not a substitute for coursework or in-depth study. Each study day has 2 hours and 10 minutes of active study and 50 minutes of breaks, for 3 hours total.
 
 ## Learning stages
 
 ### Stage 1: Pre-master’s preparation
 
-The initial 40-day preparation period covers:
+The 20-day plan covers:
 
-- cybersecurity terminology and foundational concepts;
-- Linux fundamentals;
+- cybersecurity foundations and computer basics;
+- Linux, Windows, and operating-system fundamentals;
 - networking, TCP/IP, DNS, HTTP, and HTTPS;
-- introductory Nmap and Wireshark usage;
-- web-application fundamentals;
-- introductory web-security testing;
-- penetration-testing methodology;
-- evidence collection and technical reporting.
+- introductory Nmap, Wireshark, and Burp Suite usage;
+- web-application security concepts;
+- authorized testing methodology, evidence, and reporting;
+- review and preparation for the master’s program.
+
+See the [20-day preparation plan](pre-masters/Pre-Cybersecurity.md).
 
 ### Stage 2: Cybersecurity master’s year
 
-During the master’s year, this repository will contain materials related
-to my subjects, practical exercises, projects, research, and continued
-professional development.
+During the master’s year, this repository will contain materials related to my subjects, practical exercises, projects, research, and continued professional development.
 
 Areas may include:
 
@@ -42,7 +37,7 @@ Areas may include:
 
 ## Repository structure
 
-- `pre-masters/` — material from the 40-day preparation plan
+- `pre-masters/` — the 20-day preparation plan and related materials
 - `masters-year/` — notes, exercises, and projects from the master’s year
 - `commands/` — Linux, Nmap, Wireshark, Burp Suite, and other references
 - `lab-writeups/` — write-ups from authorized practical laboratories
@@ -58,12 +53,10 @@ Areas may include:
 
 ### Pre-master’s preparation
 
-- [ ] Days 1–7: Cybersecurity fundamentals and Linux
-- [ ] Days 8–14: Networking fundamentals
-- [ ] Days 15–21: Operating systems and administration
-- [ ] Days 22–28: Web fundamentals and web security
-- [ ] Days 29–35: Penetration-testing workflow and evidence
-- [ ] Days 36–40: Consolidation and master’s preparation
+- [ ] Days 1–5: Foundations, Linux, and networking
+- [ ] Days 6–10: Network tools, operating systems, and lab safety
+- [ ] Days 11–15: Web security, assessment, and reconnaissance
+- [ ] Days 16–20: Validation, forensics, practical review, and master’s preparation
 
 ### Master’s year
 
@@ -75,11 +68,9 @@ Areas may include:
 
 ## Ethical and legal boundary
 
-All security testing documented in this repository is performed only on
-systems I own or systems for which I have explicit authorization.
+All security testing documented in this repository is performed only on systems I own or systems for which I have explicit authorization.
 
-Sensitive information, credentials, private keys, session data, VPN
-configurations, and private packet captures must not be committed.
+Sensitive information, credentials, private keys, session data, VPN configurations, and private packet captures must not be committed.
 
 ## Documentation principles
 
